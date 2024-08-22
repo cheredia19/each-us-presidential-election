@@ -10,7 +10,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: '2020_pop_vote.csv'
+    url: '2020_popular_vote.csv'
   }}
  />
 
