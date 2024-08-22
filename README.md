@@ -3,6 +3,23 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 2016
+
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '2016_pop_vote.csv'
+  }}
+ />
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '2016_elec_pop.csv'
+  }}
+ />
 
 ## 2020
 
