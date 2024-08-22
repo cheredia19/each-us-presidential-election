@@ -15,3 +15,9 @@ description:
  />
 
 ### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '2020_elec_pop.csv'
+  }}
+ />
