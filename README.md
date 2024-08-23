@@ -3,6 +3,25 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1984
+
+### Popular votes by candidate
+
+<FlatUiTable
+  data={{
+    url: '1984_pop_vote.csv'
+  }}
+ />
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1984_elec_pop.csv'
+  }}
+ />
+
+
 ## 1988
 
 ### Popular votes by candidate
