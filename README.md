@@ -3,6 +3,16 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1972
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1972_elec_pop.csv'
+  }}
+ />
+
 ## 1976
 
 ### Popular and electoral votes by candidate and state
