@@ -3,6 +3,16 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1960
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1960_elec_pop.csv'
+  }}
+ />
+
 ## 1964
 
 ### Popular and electoral votes by candidate and state
