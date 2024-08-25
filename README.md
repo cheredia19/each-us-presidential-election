@@ -3,6 +3,18 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1856
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1856_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to James Buchanan*
+
+
 ## 1860
 
 ### Popular and electoral votes by candidate and state
