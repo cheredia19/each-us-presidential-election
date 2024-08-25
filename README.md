@@ -3,6 +3,16 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1936
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1936_elec_pop.csv'
+  }}
+ />
+
 ## 1940
 
 ### Popular and electoral votes by candidate and state
