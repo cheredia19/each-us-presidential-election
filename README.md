@@ -13,6 +13,8 @@ description:
   }}
  />
 
+## 1880
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
