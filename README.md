@@ -3,6 +3,17 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1848
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1848_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 9 electors were chosen by state legislature and awarded to Lewis Cass*
+
 ## 1852
 
 ### Popular and electoral votes by candidate and state
