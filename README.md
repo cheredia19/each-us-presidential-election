@@ -3,6 +3,17 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1872
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1872_elec_pop.csv'
+  }}
+ />
+**Horace Greeley died on November 29, 1872, after the popular election, but before the Electoral College met. His electoral votes were split among four individuals including 18 for Benjamin Gratz Brown, Greeley's running mate*
+
 ## 1876
 
 ### Popular and electoral votes by candidate and state
