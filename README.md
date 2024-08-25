@@ -3,6 +3,17 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1868
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1868_elec_pop.csv'
+  }}
+ />
+**FLORIDA: 3 electors were chosen by state legislature and awarded to Ulysses Grant*
+
 ## 1872
 
 ### Popular and electoral votes by candidate and state
