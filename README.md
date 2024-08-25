@@ -7,6 +7,18 @@ description:
 
 ### Popular and electoral votes by candidate and state
 
+## 1856
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1852_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to Franklin Pierce*
+
+
 <FlatUiTable
   data={{
     url: '1856_electoral_pop.csv'
