@@ -12,7 +12,7 @@ description:
     url: '1864_elec_pop.csv'
   }}
  />
-**Eleven Confederate states did not participate in the election because of the Civil War*
+**NOTE: Eleven Confederate states did not participate in the election because of the Civil War*
 
 ## 1868
 
