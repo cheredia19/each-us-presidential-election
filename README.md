@@ -9,7 +9,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: '1868_elec_pop.csv'
+    url: '1868_electoral_pop.csv'
   }}
  />
 **FLORIDA: 3 electors were chosen by state legislature and awarded to Ulysses Grant*
