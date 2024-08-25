@@ -12,6 +12,7 @@ description:
     url: '1876_elec_pop.csv'
   }}
  />
+**COLORADO: 3 electors were chosen by state legislature and awarded to Rutherford B. Hayes*
 
 ## 1880
 
