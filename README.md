@@ -9,7 +9,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: '1856_elec_pop.csv'
+    url: '1856_electoral_pop.csv'
   }}
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to James Buchanan*
@@ -21,7 +21,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: '1860_elec_pop.csv'
+    url: '1860_electoral_pop.csv'
   }}
  />
 **SOUTH CAROLINA: 8 electors were chosen by state legislature and awarded to John Breckinridge*
