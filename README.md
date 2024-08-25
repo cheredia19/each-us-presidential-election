@@ -3,6 +3,17 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1864
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1864_elec_pop.csv'
+  }}
+ />
+**Eleven Confederate states did not participate in the election because of the Civil War*
+
 ## 1868
 
 ### Popular and electoral votes by candidate and state
