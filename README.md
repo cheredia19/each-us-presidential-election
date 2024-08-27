@@ -3,6 +3,22 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1832
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1832_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to independent candidate John Floyd*
+
+## 1836
+
+### Popular and electoral votes by candidate and state
+
+
 ## 1840
 
 ### Popular and electoral votes by candidate and state
