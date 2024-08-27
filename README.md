@@ -3,6 +3,17 @@ title: Each US Presidential Election
 description: 
 ---
 
+## 1840
+
+### Popular and electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1840_elec_pop.csv'
+  }}
+ />
+**SOUTH CAROLINA: 11 electors were chosen by state legislature and awarded to Martin van Buren*
+
 ## 1844
 
 ### Popular and electoral votes by candidate and state
