@@ -110,7 +110,8 @@ description:
     url: '2020_elec_pop.csv'
   }}
  />
- 
+
+<br /> 
 ##### Sources
 
 - [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
