@@ -1,27 +1,27 @@
-Percent of Popular Vote,Candidate (Party Label),Popular Vote Total
-52.93,Barack Obama (Democrat),69498516
-45.65,John McCain (Republican),59948323
-0.56,"Ralph Nader (Independent, Peace and Freedom)",739034
-0.40,Bob Barr (Libertarian),523715
-0.15,Chuck Baldwin (Constitution/Reform/U.S. Taxpayers),199750
-0.12,"Cynthia McKinney (Green, Independent, Mountain)",161797
-0.09,Write-In (Miscellaneous),112597
-0.04,Alan Keyes (America's Independent),47746
-0.03,"Ron Paul (Constitution, Louisiana Taxpayers)",42426
-0.01,Gloria La Riva (Socialism and Liberation),6818
-0.00,"Brian Moore (Liberty Union, Socialist)",6538
-0.00,None of These Candidates (Nevada),6267
-0.00,Róger Calero (Socialist Workers),5151
-0.00,Richard Duncan (Independent),3905
-0.00,James Harris (Socialist Workers),2424
-0.00,Charles Jay (Boston Tea Party/Independent),2422
-0.00,John Joseph Polachek (New),1149
-0.00,Frank Edward McEnulty (Unaffiliated),829
-0.00,Jeffrey J. Wamboldt (Independent),764
-0.00,Thomas Robert Stevens (Objectivist),755
-0.00,Gene C. Amondson (Prohibition),653
-0.00,"Jeffrey ""Jeff"" Boss (Vote Here)",639
-0.00,George Phillies (Libertarian),531
-0.00,Ted Weill (Reform),481
-0.00,Jonathan E. Allen (Heartquake '08),480
-0.00,Bradford Lyttle (U.S. Pacifist),110
+Electoral Vote Total,Candidate (Party Label),Popular Vote Total,Percent of Popular Vote
+365,Barack Obama (Democrat),69498516,52.93
+173,John McCain (Republican),59948323,45.65
+0,"Ralph Nader (Independent, Peace and Freedom)",739034,0.56
+0,Bob Barr (Libertarian),523715,0.40
+0,Chuck Baldwin (Constitution/Reform/U.S. Taxpayers),199750,0.15
+0,"Cynthia McKinney (Green, Independent, Mountain)",161797,0.12
+0,Write-In (Miscellaneous),112597,0.09
+0,Alan Keyes (America's Independent),47746,0.04
+0,"Ron Paul (Constitution, Louisiana Taxpayers)",42426,0.03
+0,Gloria La Riva (Socialism and Liberation),6818,0.01
+0,"Brian Moore (Liberty Union, Socialist)",6538,0.00
+0,None of These Candidates (Nevada),6267,0.00
+0,Róger Calero (Socialist Workers),5151,0.00
+0,Richard Duncan (Independent),3905,0.00
+0,James Harris (Socialist Workers),2424,0.00
+0,Charles Jay (Boston Tea Party/Independent),2422,0.00
+0,John Joseph Polachek (New),1149,0.00
+0,Frank Edward McEnulty (Unaffiliated),829,0.00
+0,Jeffrey J. Wamboldt (Independent),764,0.00
+0,Thomas Robert Stevens (Objectivist),755,0.00
+0,Gene C. Amondson (Prohibition),653,0.00
+0,"Jeffrey ""Jeff"" Boss (Vote Here)",639,0.00
+0,George Phillies (Libertarian),531,0.00
+0,Ted Weill (Reform),481,0.00
+0,Jonathan E. Allen (Heartquake '08),480,0.00
+0,Bradford Lyttle (U.S. Pacifist),110,0.00
