@@ -99,6 +99,14 @@ Only four states were decided by less than a 5% popular vote margin. Obama got 6
 
 ## 2016 | Donald Trump (R) v. Hillary Clinton (D)
 
+The 2016 U.S. presidential election was held on November 8, 2016. Republican candidate **Donald J. Trump** defeated Democrat **Hillary Clinton**, despite achieving fewer popular votes. Still, the former Secretary of State made history by being the first female presidential nominee of a major political party.
+
+Clinton received nearly 2.9 million more votes nationwide, but the GOP nominee triumphed in the Electoral College, winning 30 states with 306 pledged electors out of 538. 
+
+Trump conquered the [swing states](https://www.polyas.com/election-glossary/swing-states) of Florida, Iowa, and Ohio as well as the [“blue wall”](https://en.wikipedia.org/wiki/Blue_wall_(U.S._politics)) of Michigan, Pennsylvania, and Wisconsin, which had been Democratic fortresses in presidential elections since the 1990s. Before the election, most media outlets considered a Trump victory unlikely.
+
+It was the fifth election (the first since Bush v. Gore in 2000) in which the winner lost the popular vote. The other three occasions when this occurred were in 1824, 1876 and 1888.
+
 ### Popular votes by candidate
 
 <FlatUiTable
