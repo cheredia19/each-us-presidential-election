@@ -1,6 +1,6 @@
 ---
 title: Each U.S. presidential election (2000-2020)
-description: From George W. Bush to Joe Biden, these are the details of the six electoral contests that have taken place so far on American soil during the 2000s
+description: From the George W. Bush double tenure to the rise of Joe Biden, these are the details of the six presidential contests that have taken place so far on American soil during the 2000s
 ---
 
 ## 2000 | George W. Bush (R) v. Al Gore (D)
