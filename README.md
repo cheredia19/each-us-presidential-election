@@ -3,7 +3,7 @@ title: Each U.S. presidential election (2000-2020)
 description: 
 ---
 
-## 2000 | George W. Bush v. Al Gore
+## 2000 | George W. Bush (R) v. Al Gore (D)
 
 The election of 2000 was extremely close, with **George W. Bush** winning the presidency of the United States despite losing the popular vote to Democrat **Al Gore**. It was the fourth time something similar happened (the first one since 1888) and the tightest election since 1876 when Rutherford Hayes defeated Samuel Tilden by a single electoral vote.
 
@@ -27,7 +27,7 @@ A recount of some ballots had begun when [the United States Supreme Court interv
   }}
  />
 
-## 2004 | George W. Bush v. John Kerry
+## 2004 | George W. Bush (R) v. John Kerry (D)
 
 The infamous [9/11](https://www.state.gov/23rd-anniversary-of-the-september-11-2001-attacks/) and the Afghanistan and Iraq conflicts derived from that massive terrorist act were the main issues of this presidential campaign, followed by several domestic affairs.
 
@@ -49,7 +49,7 @@ On November 2, President Bush defeated Democrat **John Kerry** with 286 votes fr
   }}
  />
 
-## 2008
+## 2008 | Barack Obama (D) v. John McCain (R)
 
 ### Popular votes by candidate
 
