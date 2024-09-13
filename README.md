@@ -3,7 +3,7 @@ title: Each U.S. presidential election (2000-2020)
 description: 
 ---
 
-## 2000
+## 2000 | George W. Bush v. Al Gore
 
 The election of 2000 was extremely close, with **George W. Bush** winning the presidency of the United States despite losing the popular vote to Democrat **Al Gore**. It was the fourth time something similar happened (the first one since 1888) and the tightest election since 1876 when Rutherford Hayes defeated Samuel Tilden by a single electoral vote.
 
