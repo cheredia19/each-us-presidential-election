@@ -97,7 +97,7 @@ Only four states were decided by less than a 5% popular vote margin. Obama got 6
   }}
  />
 
-## 2016
+## 2016 | Donald Trump (R) v. Hillary Clinton (D)
 
 ### Popular votes by candidate
 
@@ -115,7 +115,7 @@ Only four states were decided by less than a 5% popular vote margin. Obama got 6
   }}
  />
 
-## 2020
+## 2020 | Joe Biden (D) v. Donald Trump (R)
 
 ### Popular votes by candidate
 
