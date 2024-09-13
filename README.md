@@ -27,7 +27,7 @@ A recount of some ballots had begun when [the United States Supreme Court interv
   }}
  />
 
-## 2004
+## 2004 | George W. Bush v. John Kerry
 
 ### Popular votes by candidate
 
