@@ -75,7 +75,13 @@ The selected electors from the 50 states and the District of Columbia voted for 
   }}
  />
 
-## 2012
+## 2008 | Barack Obama (D) v. Mitt Rommey (R)
+
+The 2012 United States presidential election took place on November 6. The Democratic nominee, President **Barack Obama**, and his running mate, Vice President Joe Biden, were elected to a second term. They defeated the GOP formula of **Mitt Romney** and Paul Ryan.
+
+Only four states were decided by less than a 5% popular vote margin. Obama got 65,915,795 ballots, 5.15% less than four years ago but still over 50%. The incumbent became the second president elected to a second term with fewer electoral votes than earned when winning the first term. The first was **Woodrow Wilson** in 1916.
+
+
 
 ### Popular votes by candidate
 
