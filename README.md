@@ -31,7 +31,7 @@ A recount of some ballots had begun when [the United States Supreme Court interv
 
 The infamous [9/11](https://www.state.gov/23rd-anniversary-of-the-september-11-2001-attacks/) and the Afghanistan and Iraq conflicts derived from that massive terrorist act were the main issues of this presidential campaign, followed by several domestic affairs.
 
-On November 2, President Bush defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73 of the popular vote.
+On November 2, President Bush defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73% of the popular vote.
 
 ### Popular votes by candidate
 
