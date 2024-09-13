@@ -53,7 +53,7 @@ On November 2, President Bush defeated Democrat **John Kerry** with 286 votes fr
 
 The 2008 United States presidential election was held on November 4. The actions and policies of the outgoing President George W. Bush triggered the American's desire for change. 
 
-Domestic policy and the economy eventually emerged as the main themes in the last few months of the election campaign after the onset of the 2008 economic crisis, a.k.a. [the Great Recession  (https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath), dubbed the [worst financial crisis](https://www.thebalancemoney.com/2008-financial-crisis-3305679) since the Great Depression of 1929.
+Domestic policy and the economy eventually emerged as the main themes in the last few months of the election campaign after the onset of the 2008 economic crisis, a.k.a. [the Great Recession](https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath), dubbed the [worst financial crisis](https://www.thebalancemoney.com/2008-financial-crisis-3305679) since the Great Depression of 1929.
 
 Democrat **Barack Obama**, then junior Senator from Illinois, defeated Republican **John McCain**. Obama achieved almost 70 million popular votes, 52.93 %. Colorado, Florida, Indiana, Iowa, Nebraska, Nevada, North Carolina, Ohio, and Virginia changed adherence from the 2004 election, reflecting the wind of change among the American population.
 
