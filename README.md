@@ -105,7 +105,7 @@ Clinton received nearly 2.9 million more votes nationwide, but the GOP nominee t
 
 Trump conquered the [swing states](https://www.polyas.com/election-glossary/swing-states) of Florida, Iowa, and Ohio as well as the [“blue wall”](https://en.wikipedia.org/wiki/Blue_wall_(U.S._politics)) of Michigan, Pennsylvania, and Wisconsin, which had been Democratic fortresses in presidential elections since the 1990s. Before the election, most media outlets considered a Trump victory unlikely.
 
-It was the fifth election (the first since Bush v. Gore in 2000) in which the winner lost the popular vote. The other three occasions when this occurred were in 1824, 1876 and 1888.
+It was [the fifth election (the first since Bush v. Gore in 2000) in which the winner lost the popular vote](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures). The other three occasions when this occurred were in 1824, 1876 and 1888.
 
 ### Popular votes by candidate
 
