@@ -125,6 +125,18 @@ It was [the fifth election (the first since Bush v. Gore in 2000) in which the w
 
 ## 2020 | Joe Biden (D) v. Donald Trump (R)
 
+On November 3, 2020, Democratic candidate and former Vice President **Joe Biden** defeated incumbent Republican **Donald Trump** in an election held during a pandemic.
+
+The real estate tycoon became the first U.S. president since **George Bush** (twenty-eight years ago) and the eleventh in the country's history to lose a bid for a second term. Despite COVID-19, this election registered a very high voter turnout.
+
+Biden, 77, became the oldest president-elect in history. His running mate, former U.S. Prosecutor and current Democratic nominee Kamala Harris, became the first woman to be elected Vice President.
+
+Both candidates broke their parties' record for popular votes. Biden even surpassed the 80-million tally (81,283,501).
+
+Trump became the only president in U.S. history elected as his party's nominee for reelection after [being impeached two times](https://www.hsdl.org/c/timeline/impeachment-president-trump/).
+
+A curiosity of this election occurred when Biden won in Maine but Trump gained an electoral vote by winning the popular vote in the 2nd Congressional District. The opposite happened in Nebraska. It was the first time both states had split their electoral votes in the same election since moving to the congressional district method.
+
 ### Popular votes by candidate
 
 <FlatUiTable
@@ -142,7 +154,7 @@ It was [the fifth election (the first since Bush v. Gore in 2000) in which the w
  />
 
 <p /> 
-##### Sources
+##### Data sources
 
 - [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
 - [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the 	University of California Santa Barbara
