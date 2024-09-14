@@ -29,9 +29,11 @@ A recount of some ballots had begun when [the United States Supreme Court interv
 
 ## 2004 | George W. Bush (R) v. John Kerry (D)
 
-The infamous [9/11](https://www.state.gov/23rd-anniversary-of-the-september-11-2001-attacks/) and the Afghanistan and Iraq conflicts derived from that massive terrorist act were the main issues of this presidential campaign, followed by several domestic affairs.
+On November 2, incumbent President George W. Bush defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73% of the popular vote.
 
-On November 2, President Bush defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73% of the popular vote.
+Foreign policy was the dominant theme throughout the election campaign, particularly Bush's conduct of the War on Terrorism and the 2003 invasion of Iraq, both triggered by the infamous [9/11](https://www.state.gov/23rd-anniversary-of-the-september-11-2001-attacks/).
+
+Bush and Kerry each received more votes than any other candidate up to that point. The previous record, about 54.5 million popular votes, was set by Republican Ronald Reagan in 1984.
 
 ### Popular votes by candidate
 
