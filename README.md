@@ -29,7 +29,7 @@ A recount of some ballots had begun when [the United States Supreme Court interv
 
 ## 2004 | George W. Bush (R) v. John Kerry (D)
 
-On November 2, incumbent President George W. Bush defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73% of the popular vote.
+On November 2, incumbent President **George W. Bush** defeated Democrat **John Kerry** with 286 votes from the electoral college (a majority of 270 was needed to win the presidency) and 50.73% of the popular vote.
 
 Foreign policy was the dominant theme throughout the election campaign, particularly Bush's conduct of the War on Terrorism and the 2003 invasion of Iraq, both triggered by the infamous [9/11](https://www.state.gov/23rd-anniversary-of-the-september-11-2001-attacks/).
 
@@ -81,7 +81,7 @@ The selected electors from the 50 states and the District of Columbia voted for 
 
 The 2012 United States presidential election took place on November 6. The Democratic nominee, President **Barack Obama**, and his running mate, Vice President Joe Biden, were elected to a second term. They defeated the GOP formula of **Mitt Romney** and Paul Ryan.
 
-Only four states were decided by less than a 5% popular vote margin. Obama got 65,915,795 ballots, 5.15% less than four years ago but still over 50%. The incumbent became the second president elected to a second term with fewer electoral votes than earned when winning the first term. The first was **Woodrow Wilson** in 1916.
+Only four states were decided by less than a 5% popular vote margin. Obama got 65,915,795 ballots, 5.15% less than four years ago but still over 50%. The incumbent became the second president elected to a second term with fewer electoral votes than earned when winning the first term. The first was Woodrow Wilson in 1916.
 
 ### Popular votes by candidate
 
