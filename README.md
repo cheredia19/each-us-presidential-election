@@ -3,6 +3,10 @@ title: Each U.S. presidential election (2000-2020)
 description: From the George W. Bush double tenure to the rise of Joe Biden, these are the details of the six presidential contests that have taken place so far on American soil during the 2000s
 ---
 
+George W. Bush, Barack Obama, Donald J. Trump, and Joseph R. Biden are the four U.S. presidents elected in the 2000s era. Three Republican and three Democratic terms with the common goal of leading the United States to a secure port in the middle of serious challenges, such as the terrorist attacks of 2001, the wars in Afghanistan and Iraq, the economic crash of 2008, the COVID-19 pandemic, as well as major domestic and foreign issues.
+
+These were, in numbers, the six presidential elections that have taken place on American soil since 2000.
+
 ## 2000 | George W. Bush (R) v. Al Gore (D)
 
 The election of 2000 was extremely close, with **George W. Bush** winning the presidency of the United States despite losing the popular vote to Democrat **Al Gore**. It was the fourth time something similar happened (the first one since 1888) and the tightest election since 1876 when Rutherford Hayes defeated Samuel Tilden by a single electoral vote.
@@ -131,7 +135,7 @@ On November 3, 2020, Democratic candidate and former Vice President **Joe Biden*
 
 The real estate tycoon became the first U.S. president since **George Bush** (twenty-eight years ago) and the eleventh in the country's history to lose a bid for a second term. Despite COVID-19, this election registered a very high voter turnout.
 
-Biden, 77, became the oldest president-elect in history. His running mate, former U.S. Prosecutor and current Democratic nominee Kamala Harris, became the first woman to be elected Vice President.
+Biden, 77, became the oldest president-elect in history. His running partner, former U.S. Prosecutor and current Democratic nominee Kamala Harris, became the first woman to be elected Vice President.
 
 Both candidates broke their parties' record for popular votes. Biden even surpassed the 80-million tally (81,283,501).
 
