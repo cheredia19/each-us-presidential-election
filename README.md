@@ -23,15 +23,6 @@ A recount of some ballots had begun when [the United States Supreme Court interv
   }}
  />
 
- <PlotlyBarChart
-  data={{
-    url: '2000_pop_votes.csv'
-  }}
-  title="Popular votes by candidate"
-  xAxis="Candidate (Party Label)"
-  yAxis="Electoral Vote Total"
-/>
-
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
