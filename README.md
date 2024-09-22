@@ -151,6 +151,15 @@ A curiosity of this election occurred when Biden won in Maine but Trump gained a
   }}
  />
 
+<PlotlyBarChart
+  data={{
+    url: '2000_pop_votes.csv'
+  }}
+  title="Popular votes by candidate"
+  xAxis="Candidate (Party Label)"
+  yAxis="Popular Vote Total"
+/>
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
