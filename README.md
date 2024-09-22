@@ -169,5 +169,6 @@ A curiosity of this election occurred when Biden won in Maine but Trump gained a
 ##### You may be interested in
 
 - [Facts and figures of the U.S. presidential elections](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures)
+- [Each U.S. presidential election (1789-1796)](https://datahub.io/@cheredia19/us-presidential-elections-1700s)
 - [Each U.S. presidential election (1800-1896)](https://datahub.io/@cheredia19/us-presidential-elections-1800s)
 - [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
