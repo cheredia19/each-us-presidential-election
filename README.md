@@ -160,7 +160,14 @@ A curiosity of this election occurred when Biden won in Maine but Trump gained a
  />
 
 <p /> 
+  
 ##### Data sources
 
 - [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
 - [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the 	University of California Santa Barbara
+
+##### You may be interested in
+
+- [Facts and figures of the U.S. presidential elections](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures)
+- [Each U.S. presidential election (1800-1896)](https://datahub.io/@cheredia19/us-presidential-elections-1800s)
+- [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
