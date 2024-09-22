@@ -23,6 +23,15 @@ A recount of some ballots had begun when [the United States Supreme Court interv
   }}
  />
 
+ <PlotlyBarChart
+  data={{
+    url: '2000_pop_votes.csv'
+  }}
+  title="Popular votes by candidate"
+  xAxis="Candidate (Party Label)"
+  yAxis="Electoral Vote Total"
+/>
+
 ### Popular and electoral votes by candidate and state
 
 <FlatUiTable
@@ -150,15 +159,6 @@ A curiosity of this election occurred when Biden won in Maine but Trump gained a
     url: '2020_pop_votes.csv'
   }}
  />
-
-<PlotlyBarChart
-  data={{
-    url: '2000_pop_votes.csv'
-  }}
-  title="Popular votes by candidate"
-  xAxis="Candidate (Party Label)"
-  yAxis="Popular Vote Total"
-/>
 
 ### Popular and electoral votes by candidate and state
 
